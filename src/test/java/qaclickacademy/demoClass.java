@@ -15,5 +15,11 @@ public class demoClass {
 	{
 		System.out.println("This is a demo");
 	}
+	
+	
+	public String returnStringMethod()
+	{
+		return "Hello";
+	}
 
 }
