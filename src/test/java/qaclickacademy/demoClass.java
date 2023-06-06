@@ -10,5 +10,10 @@ public class demoClass {
 		System.out.println("Demo");
 		System.out.println("Demo2");
 	}
+	
+	public static void demoFunc()
+	{
+		System.out.println("This is a demo");
+	}
 
 }
